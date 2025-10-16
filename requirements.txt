@@ -1,0 +1,15 @@
+﻿streamlit
+PyPDF2
+langchain
+langchain-community
+langchain-core
+langchain-google-genai
+google-generativeai
+google-ai-generativelanguage
+faiss-cpu
+python-dotenv
+pydantic
+SpeechRecognition
+gTTS
+audio-recorder-streamlit
+pydub
